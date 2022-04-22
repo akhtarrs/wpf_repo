@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/wpf_ui_work/highfrequency_update/obj
+/.vs
+/wpf_ui_work/.vs/wpf_ui_work/v17
